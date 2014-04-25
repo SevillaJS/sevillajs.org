@@ -23,6 +23,10 @@ body {
   border-radius: 0 !important;
 }
 
+.underline {
+  text-decoration: underline;
+}
+
 /* Full Page Image Header Area */
 
 .header {
